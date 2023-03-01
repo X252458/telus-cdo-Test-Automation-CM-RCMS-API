@@ -1,0 +1,48 @@
+{
+	"RCMSDB": {
+		"PT140": {
+			"host": "RWRDPT-SCAN.CORP.ADS",
+			"port": "41521",
+			"serviceName": "RWRDPTSV2.WORLD",
+			"username": "WDI1MjQ1OA==",
+			"password": "WDI1MjQ1OA=="
+		},
+		"PT148": {
+			"host": "RWRDPT-SCAN.CORP.ADS",
+			"port": "41521",
+			"serviceName": "RWRDPTSV2.WORLD",
+			"username": "WDI1MjQ1OA==",
+			"password": "WDI1MjQ1OA=="
+		},
+		"PT168": {
+			"host": "RWRDPT-SCAN.CORP.ADS",
+			"port": "41521",
+			"serviceName": "RWRDPTSV2.WORLD",
+			"username": "WDI1MjQ1OA==",
+			"password": "WDI1MjQ1OA=="
+		}
+	},
+	"CRDB": {
+		"PT140": {
+			"host": "CRDBPT-SCAN.CORP.ADS",
+			"port": "41521",
+			"serviceName": "CRDBPTSV1.WORLD",
+			"username": "UE9SVEFM",
+			"password": "UE9SVEFM"
+		},
+		"PT148": {
+			"host": "CRDBPT-SCAN.CORP.ADS",
+			"port": "41521",
+			"serviceName": "CRDBPTSV1.WORLD",
+			"username": "UE9SVEFM",
+			"password": "UE9SVEFM"
+		},
+		"PT168": {
+			"host": "CRDBPT-SCAN.CORP.ADS",
+			"port": "41521",
+			"serviceName": "CRDBPTSV1.WORLD",
+			"username": "UE9SVEFM",
+			"password": "UE9SVEFM"
+		}
+	}
+}

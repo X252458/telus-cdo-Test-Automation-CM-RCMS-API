@@ -1,0 +1,20 @@
+{
+	"RewardService": {
+		"grant_type": "Y2xpZW50X2NyZWRlbnRpYWxz",
+		"client_id": "ODM5ZDQ5MmEtMWQ3NC00Yjc5LThhMjgtNjJiM2EyZWE4YmZi",
+		"client_secret": "ODI5ZjI0N2UtODdlMi00OWMyLTliMzEtNGI3Y2M5ZGE3Nzc2ZjFlZTBiZTYtYzRmMC00NTc0LWE3M2QtMGI2M2QzZDlkY2Rh",
+		"scope": "MjM1IDIzMyAxMjUgOTky"
+	},
+	"Violation": {
+		"grant_type": "Y2xpZW50X2NyZWRlbnRpYWxz",
+		"client_id": "YmVhYjI2OWMtZTYxOC00MTljLTg2MGItNzU4NWYzMTgwZDQ4",
+		"client_secret": "NDc0NWRkYWYtMjU5Mi00NTY3LWFlZGUtM2VlMTk4YTdkMzRjMjU5M2E4ZTMtODBhNy00ZWRiLWE0ZjAtNDkzZjM0OGFjOGIx",
+		"scope": "MTI3IDE5MTQ="
+	},
+	"Management": {
+		"grant_type": "Y2xpZW50X2NyZWRlbnRpYWxz",
+		"client_id": "YTgxMzU4OWQtM2QwYy00NGZiLWFjNTUtOGNjMzczYWUzMWIx",
+		"client_secret": "N2Q3MTJmZTUtMWU0Zi00NjkxLWE4NzktOWYwZjU2NThlMzAxMWU5NTdlMzQtZTVkNS00ZjU4LWFlY2ItZDkxNWRmM2FmNGVj",
+		"scope": "MzcgOTkzIDI2NA=="
+	}
+}
