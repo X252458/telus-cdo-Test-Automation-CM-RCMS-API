@@ -216,8 +216,8 @@ public static String getNewGMTEndDate(Integer duration) {
 		case "BIB":
 		case "9":
 			startDateFormatted = LocalDate.parse(startDate);
-          //startDateFormatted = startDateFormatted.plusMonths(monthDuration + 1).minusDays(1);
-          startDateFormatted = startDateFormatted.plusMonths(monthDuration + 1).plusDays(2);
+          startDateFormatted = startDateFormatted.plusMonths(monthDuration + 1).minusDays(1);
+          //startDateFormatted = startDateFormatted.plusMonths(monthDuration + 1).plusDays(2);
           //startDateFormatted = startDateFormatted.plusMonths(monthDuration + 1);
           startDate = startDateFormatted.toString();
           break;
